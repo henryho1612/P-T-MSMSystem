@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field
+END
+TestPreciseDurationDateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestPreciseDurationDateTimeField.java
+END
+TestMillisDurationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestMillisDurationField.java
+END
+TestFieldUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestFieldUtils.java
+END
+TestPreciseDurationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestPreciseDurationField.java
+END
+TestScaledDurationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestScaledDurationField.java
+END
+TestOffsetDateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestOffsetDateTimeField.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestAll.java
+END
+TestUnsupportedDateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestUnsupportedDateTimeField.java
+END
+TestBaseDateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestBaseDateTimeField.java
+END
+TestPreciseDateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/field/TestPreciseDateTimeField.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base
+END
+BaseInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BaseInterval.java
+END
+AbstractDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractDateTime.java
+END
+AbstractPartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractPartial.java
+END
+BaseDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BaseDuration.java
+END
+BaseSingleFieldPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BaseSingleFieldPeriod.java
+END
+AbstractInstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractInstant.java
+END
+BaseLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BaseLocal.java
+END
+AbstractPeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractPeriod.java
+END
+BaseDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BaseDateTime.java
+END
+BasePartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BasePartial.java
+END
+AbstractInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractInterval.java
+END
+AbstractDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/AbstractDuration.java
+END
+BasePeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/BasePeriod.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/base/package.html
+END

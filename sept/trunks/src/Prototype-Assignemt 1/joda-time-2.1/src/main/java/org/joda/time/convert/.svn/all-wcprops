@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert
+END
+CalendarConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/CalendarConverter.java
+END
+ConverterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ConverterManager.java
+END
+NullConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/NullConverter.java
+END
+ReadablePartialConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ReadablePartialConverter.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/DateConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/Converter.java
+END
+InstantConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/InstantConverter.java
+END
+PeriodConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/PeriodConverter.java
+END
+IntervalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/IntervalConverter.java
+END
+DurationConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/DurationConverter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/package.html
+END
+ConverterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ConverterSet.java
+END
+PartialConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/PartialConverter.java
+END
+LongConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/LongConverter.java
+END
+ReadableInstantConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ReadableInstantConverter.java
+END
+ReadablePeriodConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ReadablePeriodConverter.java
+END
+AbstractConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/AbstractConverter.java
+END
+ReadableIntervalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ReadableIntervalConverter.java
+END
+ReadableDurationConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/ReadableDurationConverter.java
+END
+StringConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/convert/StringConverter.java
+END

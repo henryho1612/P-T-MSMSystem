@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format
+END
+PeriodParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/PeriodParser.java
+END
+DateTimePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimePrinter.java
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_en.properties
+END
+DateTimeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimeFormat.java
+END
+PeriodFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/PeriodFormatter.java
+END
+ISOPeriodFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/ISOPeriodFormat.java
+END
+DateTimeParserBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimeParserBucket.java
+END
+FormatUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/FormatUtils.java
+END
+DateTimeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimeParser.java
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_fr.properties
+END
+messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_nl.properties
+END
+PeriodFormatterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/PeriodFormatterBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/package.html
+END
+DateTimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimeFormatter.java
+END
+ISODateTimeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/ISODateTimeFormat.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages.properties
+END
+messages_pt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_pt.properties
+END
+PeriodPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/PeriodPrinter.java
+END
+DateTimeFormatterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/messages_de.properties
+END
+PeriodFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/format/PeriodFormat.java
+END

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time
+END
+DateTimeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeField.java
+END
+DateMidnight.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateMidnight.java
+END
+ReadablePeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadablePeriod.java
+END
+ReadableInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadableInterval.java
+END
+ReadableDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadableDuration.java
+END
+JodaTimePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/JodaTimePermission.java
+END
+ReadWritableInstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadWritableInstant.java
+END
+YearMonth.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/YearMonth.java
+END
+Months.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Months.java
+END
+ReadablePartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadablePartial.java
+END
+Instant.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Instant.java
+END
+TimeOfDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/TimeOfDay.java
+END
+ReadWritableDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadWritableDateTime.java
+END
+DateTimeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeComparator.java
+END
+PeriodType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/PeriodType.java
+END
+LocalDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/LocalDate.java
+END
+IllegalFieldValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/IllegalFieldValueException.java
+END
+DurationFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DurationFieldType.java
+END
+DateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTime.java
+END
+Days.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Days.java
+END
+Hours.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Hours.java
+END
+ReadableInstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadableInstant.java
+END
+DateTimeFieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeFieldType.java
+END
+YearMonthDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/YearMonthDay.java
+END
+MutableDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/MutableDateTime.java
+END
+LocalDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/LocalDateTime.java
+END
+ReadWritablePeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadWritablePeriod.java
+END
+LocalTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/LocalTime.java
+END
+ReadWritableInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadWritableInterval.java
+END
+ReadableDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/ReadableDateTime.java
+END
+DateTimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeUtils.java
+END
+Weeks.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Weeks.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/package.html
+END
+Period.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Period.java
+END
+MonthDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/MonthDay.java
+END
+Chronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Chronology.java
+END
+Years.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Years.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Interval.java
+END
+Minutes.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Minutes.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Duration.java
+END
+DateTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeZone.java
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/overview.html
+END
+DateTimeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DateTimeConstants.java
+END
+DurationField.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/DurationField.java
+END
+Partial.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Partial.java
+END
+MutablePeriod.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/MutablePeriod.java
+END
+MutableInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/MutableInterval.java
+END
+Seconds.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/main/java/org/joda/time/Seconds.java
+END

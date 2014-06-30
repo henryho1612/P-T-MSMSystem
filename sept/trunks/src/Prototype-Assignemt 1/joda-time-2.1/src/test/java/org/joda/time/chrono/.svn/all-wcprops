@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono
+END
+TestGregorianChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestGregorianChronology.java
+END
+TestLenientChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestLenientChronology.java
+END
+TestGJChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestGJChronology.java
+END
+TestCopticChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestCopticChronology.java
+END
+TestIslamicChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestIslamicChronology.java
+END
+TestJulianChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestJulianChronology.java
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestAll.java
+END
+TestEthiopicChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestEthiopicChronology.java
+END
+TestBuddhistChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestBuddhistChronology.java
+END
+TestISOChronology.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/henryho1612_sept/!svn/ver/10/trunks/src/Prototype-Assignemt%201/joda-time-2.1/src/test/java/org/joda/time/chrono/TestISOChronology.java
+END
